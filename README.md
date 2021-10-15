@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Maziyart
+- 👀 I’m interested in learning new thing
+- 🌱 I’m currently learning web development (HTML, CSS, JAVASCRIPT)
+- 📫 How to reach me: Maziyartalashan@gmail.com
